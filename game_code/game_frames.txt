@@ -1,0 +1,32 @@
+Game modes:
+
+A
+|Alphabyte Games |
+| Press to Start |
+
+B
+|Math    Spelling|
+|Other Game??????|
+
+C1
+Data for math!
+"asks a math question" on a loop
+|ANS1        ANS2|
+|ANS3        ANS4|
+	|
+	C11				C12
+|    Correct!    |	OR 	|Incorrect Please|
+|   You Win!!!   |	   	|   Try Again!   |
+GO back to main		      	     Loop back
+
+C2
+Spelling
+"spell"+a_word (on a loop)
+|ANS1        ANS2|
+|ANS3        ANS4|
+	|
+	C21				C22
+|    Correct!    |	OR 	|Incorrect Please|
+|   You Win!!!   |	   	|   Try Again!   |
+GO back to main			     Loop back
+
